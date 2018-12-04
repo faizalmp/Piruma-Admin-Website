@@ -1,4 +1,4 @@
-# dteti
+# PIRUMA ADMIN
 
 ## Project setup
 ```
